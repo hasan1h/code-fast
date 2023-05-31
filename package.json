@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "volta": {
+    "node": "18.16.0",
+    "npm": "9.3.1"
+  }
+}
